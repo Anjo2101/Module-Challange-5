@@ -1,2 +1,3 @@
-# Module Challange 5; worked on alone plus in study group with other classmates.
+# Module-Challange-5
+Worked on alone plus in study group with other classmates.
 
